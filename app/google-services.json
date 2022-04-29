@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1029854785544",
+    "project_id": "psitlive",
+    "storage_bucket": "psitlive.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1029854785544:android:84f40c198213bc8091e1bd",
+        "android_client_info": {
+          "package_name": "com.psit.psitcontacts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1029854785544-gdiv4aob21m3boi2bba6ct46kkvh4qp8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6NdWaR82N08uCOJ0WdS6EVA3aYe8xmw4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1029854785544-gdiv4aob21m3boi2bba6ct46kkvh4qp8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
